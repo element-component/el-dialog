@@ -1,0 +1,29 @@
+{
+  "name": "el-dialog",
+  "version": "0.0.0",
+  "description": "A project.",
+  "keywords": [
+    "element",
+    "vue",
+    "component"
+  ],
+  "main": "./dist/index.js",
+  "scripts": {
+    "dev": "element-toolbox watch",
+    "dist": "element-toolbox build",
+    "test": "element-toolbox test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:element-component/el-dialog.git/el-dialog.git"
+  },
+  "homepage": "git@github.com:element-component/el-dialog.git/el-dialog#readme",
+  "bugs": {
+    "url": "git@github.com:element-component/el-dialog.git/el-dialog/issues"
+  },
+  "author": "elemefe",
+  "license": "MIT",
+  "dependencies": {
+    "vue-popup": "^0.1.7"
+  }
+}
